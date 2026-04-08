@@ -1,4 +1,6 @@
-print("Welcome to my computer quiz!")
+# Simple console-based quiz game
+
+print("Welcome to my computer quiz!") 
 
 playing = input("Do you want to play?")
 
